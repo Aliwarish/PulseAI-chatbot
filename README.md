@@ -1,5 +1,9 @@
+
+![Screenshot 2025-01-22 225207](https://github.com/user-attachments/assets/89e4fbba-7fb8-468d-aec5-fca4183aa000)
+
 # PulseAI-chatbot
-PulseAI: The LLM Core for Real-Time Global News 
+PulseAI: The LLM Core for Real-Time Global N![Uploading Screenshot 2025-01-22 225207.png…]()
+ews 
 
 # Chatbot Application: PDF and Google Search Interfaces
 
